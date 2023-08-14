@@ -1,7 +1,7 @@
 # T3A2 - Full Stack App
 
-1. [R1](#description-of-your-website)
-2. [R2](#dataflow-diagram)
+1. [R1 Description of website](#description-of-your-website)
+2. [R2 Dataflow Diagram](#dataflow-diagram)
 
 ## R1 Description of your website
 
