@@ -30,3 +30,5 @@ This application is targetted at all school stakeholders this includes students 
 The application will utilise a MongoDB connected to a express.js server built on node.js. The front end of the application will use react.js html and css. The server and front end will be deployed to cloud services.
 
 # R2 Dataflow Diagram
+
+![Dataflow Diagram](./Docs/Dataflow%20Diagram.png)
