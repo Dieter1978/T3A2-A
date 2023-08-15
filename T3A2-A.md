@@ -40,3 +40,5 @@ The application will utilise a MongoDB connected to a express.js server built on
 ![Wireframe - Tablet](./Docs/Yearbook%20wireframes%20-%20tablet.png)
 
 ![Wireframe - Desktop](./Docs/Yearbook%20wireframes%20-%20desktop.png)
+
+## R6 Trial
