@@ -32,3 +32,11 @@ The application will utilise a MongoDB connected to a express.js server built on
 ## R2 Dataflow Diagram
 
 ![Dataflow Diagram](./Docs/Dataflow%20Diagram.png)
+
+## R5 Wireframes
+
+![Wireframe - Mobile](./Docs/Yearbook%20wireframes%20-%20mobile.png)
+
+![Wireframe - Tablet](./Docs/Yearbook%20wireframes%20-%20tablet.png)
+
+![Wireframe - Desktop](./Docs/Yearbook%20wireframes%20-%20desktop.png)
