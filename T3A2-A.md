@@ -1,6 +1,10 @@
 # T3A2 - Full Stack App
 ### By Dieter Schmid, Wenxuan Pan, Alicia Han
 
+[Trello Board](https://trello.com/b/YU3ggBxC/school-yearbook-app)
+
+[Presentation]()
+
 ## Table of Contents
 
 1. [R1 Description of website](#r1-description-of-your-website)
@@ -44,17 +48,48 @@ The application will utilise a MongoDB connected to a express.js server built on
 
 ## R4 User Stories
 
+User stories were split into three categories:
+1. All users (students and admin)
+2. Admin only
+3. Students only
+
+Throughout the planning process, we found that we needed to add and modify ideas in order for the application to work better. Hence, user stories from the beginning of the planning phase were updated to reflect these changes. We have included both sets of user stories in this documentation:
+
 ### Initial User Stories
 
-1.	As an admin/student, I would like to be able to add a student profile into different classes/cohorts and year levels, so that student data is organised into the correct categories.
-2.	As an admin/student, I would like to be able to login and view a list of students in each class and year level/cohort at my school.
-3.	As an admin/student, I would like to be able to click into individual students and see their relevant information, so that I can stay in touch with my classmates and connect with acquaintances.
-4.	As a student, I would like to be able to update my information, so that others can get in touch with me via my current contact details if needed, however I would like to ensure that only admin and myself can manipulate my account, for better security.
-5.	As a student, I want to be able to delete any information on my account, or my entire profile, from the database so that I have control over my information.
-6.	As an admin, I want to be able to remove any profile from the database to ensure data integrity.
-7.	As an admin/student, I would like to have a navigation bar so that I can easily access different parts of the website.
+All users:
+
+1.	As a user, I would like to be able to add a student profile into different classes/cohorts and year levels, so that student data is organised into the correct categories.
+2.	As a user, I would like to be able to login and view a list of students in each class and year level/cohort at my school.
+3.	As a user, I would like to be able to click into individual students and see their relevant information, so that I can stay in touch with classmates and connect with acquaintances.
+4.	As a user, I would like to have a navigation bar so that I can easily access different parts of the website.
+
+Admin only:
+1.	As an admin, I want to be able to remove any profile from the database to ensure data integrity.
+
+Students only:
+
+1.	As a student, I would like to be able to update my information, so that others can get in touch with me via my current contact details if needed, however I would like to ensure that only admin and myself can manipulate my account, for better security.
+2.	As a student, I want to be able to delete any information on my account, or my entire profile, from the database so that I have control over my information.
+
 
 ### Revised User Stories to Reflect Updated Features
+
+All users:
+1.	As a user, I would like to be able to login and view a list of classes in my school, and the students in each class.
+2.	As a user, I would like to be able to click into individual students and see their relevant information, so that I can stay in touch with my classmates and connect with acquaintances.
+3.	As a user, I would like to have a navigation bar so that I can easily navigate around the application.
+4.	As a user, I would like to be able to reset my login password for better security.
+
+Admin only:
+1.	As an admin, I would like to see a list of all yearbooks and classes at my school, and be able to modify or delete them as appropriate, in case of error or duplication.
+2.	As an admin, I would like to be able to input a class of students along with their email and photos, and modify and delete student data as needed in case of error or duplication.
+3.	As an admin, I would like to be able to send out an invitation code to students so they can utilise the code to sign up and create their own accounts, this will ensure that only students who are actually in the class will be able to register to that class. 
+
+Students only:
+1.	As a student, I would like to receive a secure invitation code and link from my school admin to be able to register an account.
+3.	As a student, I would like to be able to add, modify and delete any of my data from my account, and ensure that only the admin or myself can manipulate my account, for better security.
+
 
 ## R5 Wireframes
 
