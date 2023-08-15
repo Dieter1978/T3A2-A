@@ -1,7 +1,12 @@
 # T3A2 - Full Stack App
+### By Dieter Schmid, Wenxuan Pan, Alicia Han
 
-1. [R1 Description of website](#description-of-your-website)
-2. [R2 Dataflow Diagram](#dataflow-diagram)
+## Table of Contents
+
+1. [R1 Description of website](#r1-description-of-your-website)
+2. [R2 Dataflow Diagram](#r2-dataflow-diagram)
+3. [R3 Application Architecture Diagram](#r3-application-architecture-diagram)
+4. [R4 User Stories](#r4-user-stories)
 
 ## R1 Description of your website
 
@@ -33,6 +38,24 @@ The application will utilise a MongoDB connected to a express.js server built on
 
 ![Dataflow Diagram](./Docs/Dataflow%20Diagram.png)
 
+## R3 Application Architecture Diagram
+
+![Application Architecture Diagram](./Docs/Application%20Architecture%20Diagram.png)
+
+## R4 User Stories
+
+### Initial User Stories
+
+1.	As an admin/student, I would like to be able to add a student profile into different classes/cohorts and year levels, so that student data is organised into the correct categories.
+2.	As an admin/student, I would like to be able to login and view a list of students in each class and year level/cohort at my school.
+3.	As an admin/student, I would like to be able to click into individual students and see their relevant information, so that I can stay in touch with my classmates and connect with acquaintances.
+4.	As a student, I would like to be able to update my information, so that others can get in touch with me via my current contact details if needed, however I would like to ensure that only admin and myself can manipulate my account, for better security.
+5.	As a student, I want to be able to delete any information on my account, or my entire profile, from the database so that I have control over my information.
+6.	As an admin, I want to be able to remove any profile from the database to ensure data integrity.
+7.	As an admin/student, I would like to have a navigation bar so that I can easily access different parts of the website.
+
+### Revised User Stories to Reflect Updated Features
+
 ## R5 Wireframes
 
 ![Wireframe - Mobile](./Docs/Yearbook%20wireframes%20-%20mobile.png)
@@ -41,4 +64,3 @@ The application will utilise a MongoDB connected to a express.js server built on
 
 ![Wireframe - Desktop](./Docs/Yearbook%20wireframes%20-%20desktop.png)
 
-## R6 Trial
