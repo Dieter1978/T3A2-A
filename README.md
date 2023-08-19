@@ -12,6 +12,8 @@
 2. [R2 Dataflow Diagram](#r2-dataflow-diagram)
 3. [R3 Application Architecture Diagram](#r3-application-architecture-diagram)
 4. [R4 User Stories](#r4-user-stories)
+5. [R5 Wireframes](#r5-wireframes)
+6. [R6 Trello Screenshots](#r6-trello-screenshots)
 
 ## R1 Description of your website
 
@@ -97,8 +99,18 @@ Students only:
 
 ## R5 Wireframes
 
+Mobile:
+
 ![Wireframe - Mobile](./Docs/Yearbook%20wireframes%20-%20mobile.png)
+
+Tablet:
 
 ![Wireframe - Tablet](./Docs/Yearbook%20wireframes%20-%20tablet.png)
 
+Desktop:
+
 ![Wireframe - Desktop](./Docs/Yearbook%20wireframes%20-%20desktop.png)
+
+## R6 Trello Screenshots
+
+![Trello board screenshot](./Docs/Trello%2019%20Aug.png)
