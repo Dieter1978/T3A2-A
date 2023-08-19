@@ -102,3 +102,7 @@ Students only:
 ![Wireframe - Tablet](./Docs/Yearbook%20wireframes%20-%20tablet.png)
 
 ![Wireframe - Desktop](./Docs/Yearbook%20wireframes%20-%20desktop.png)
+
+## R6 Trello Screenshots
+
+![Trello board screenshot](./Docs/Trello%2019%20Aug.png)
