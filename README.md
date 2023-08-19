@@ -4,7 +4,7 @@
 
 [Trello Board](https://trello.com/b/YU3ggBxC/school-yearbook-app)
 
-[Presentation]()
+[Presentation](./PPT/T3A2-A%20Presentation.pdf)
 
 ## Table of Contents
 
